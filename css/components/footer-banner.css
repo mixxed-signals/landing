@@ -1,0 +1,18 @@
+.footer-banner {
+  background: url("https://i.pinimg.com/originals/5a/b7/b1/5ab7b15f9a464da50b24a88f068e195b.jpg") 50% 50% / 100% no-repeat fixed;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  color: white;
+  text-shadow:  0px 0px 2px rgb(42, 41, 41);/* easier to read rtext on banner */
+}
+
+.footer-banner h3{
+  font-family: "Neucha";
+}
+
+.footer-banner h6{
+  font-family: "Neucha";
+  font-style: italic;
+  font-weight: 200;
+}

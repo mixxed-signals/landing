@@ -1,0 +1,8 @@
+.card-container {
+  background-image: url("https://1-background.com/images/clouds/only-clouds-bright-background-tile.jpg");
+  height: fit-content; /* always fit content size */
+  margin: 16px auto; /* center */
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}

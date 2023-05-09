@@ -1,0 +1,13 @@
+.container {
+  height: fit-content; /* always fit content size */
+  margin: 16px auto; /* center */
+}
+
+
+.container h2{
+  font-family: "Neucha";
+  font-style: italic;
+  font-weight: 200;
+  color: rgba(86, 198, 221, 0.7);
+  text-align: center;
+}

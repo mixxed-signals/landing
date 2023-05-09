@@ -1,0 +1,33 @@
+
+.card{
+  background-size: cover;
+  height: 450px;
+  width: 370px;
+  box-shadow: 0px 0px 4px rgb(175, 184, 186);
+  margin: 15px 15px auto;
+  text-align: center;
+  border-radius: 30px;
+  /* position */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card img{
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+}
+
+.card p{
+padding: 20px;
+font-family: "Neucha";
+font-style: italic;
+}
+
+.card h3{
+  font-family: "Rubik Pixels";
+  color: rgba(86, 198, 221, 0.7);
+}
